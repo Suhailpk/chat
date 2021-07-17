@@ -80,3 +80,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .form-container .btn:hover, .open-button:hover {
   opacity: 1;
 }
+body  {
+  background-image: url("https://i.pinimg.com/originals/21/79/7b/21797b619f0c2469988e0b0ce87ea778.jpg");
+  background-color: #cccccc;
+}
